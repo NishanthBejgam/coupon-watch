@@ -52,14 +52,8 @@
       "status": "EXPIRED"
     },
     "YQZQRRYLJITTO": {
-      "checkedAt": 1789850453.095034,
-      "checkedAtIso": "2026-09-19T20:41:58+0000",
-      "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
-      "headline": "Amazon.in: : All Categories Skip to Main content Keyboard shortcuts Search alt + / Cart shift + alt + C Home shift + alt",
-      "jewellery": false,
-      "source": "seed",
-      "status": "UNKNOWN"
+      "source": "seed"
     },
     "jewellery": {
       "checkedAt": 1789850453.095034,
