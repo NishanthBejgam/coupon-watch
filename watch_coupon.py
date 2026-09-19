@@ -31,11 +31,10 @@ The visitor can still choose a what-if or a typed coupon in the menu.
     python watch_coupon.py --no-harvest   Amazon only (quick check)
 
 Environment (all optional): AG_PROXY_URL/AG_PROXY_KEY reroute the Amazon
-fetch; TG_BOT_TOKEN + TG_CHAT_ID post a one-line alert on every change of a
-jewellery reward's status; AG_WATCH_CHANNELS overrides the Telegram channel
-list (comma separated); AG_DISPATCH_REPO + AG_DISPATCH_TOKEN ("owner/repo"
-and a token with contents:write) fire the board's build when the signal
-changes.
+fetch; AG_WATCH_CHANNELS overrides the Telegram channel list (comma
+separated); AG_DISPATCH_REPO + AG_DISPATCH_TOKEN ("owner/repo" and a token
+with contents:write) fire the board's build when the signal changes. No
+alerts: the signal file is the only output.
 """
 
 import argparse
@@ -278,18 +277,6 @@ def _due(entry, now):
 
 # ---------------------------------------------------------------- tick
 
-def notify(text):
-    tok, chat = os.environ.get("TG_BOT_TOKEN"), os.environ.get("TG_CHAT_ID")
-    if not (tok and chat):
-        return
-    data = urllib.parse.urlencode({"chat_id": chat, "text": text,
-                                   "disable_web_page_preview": "true"}).encode()
-    try:
-        urllib.request.urlopen("https://api.telegram.org/bot%s/sendMessage" % tok, data, timeout=15)
-    except Exception:  # noqa: BLE001
-        pass
-
-
 def tick(harvest=True, log=print):
     state = load_state()
     ids, cursors = state["ids"], state["cursors"]
@@ -370,8 +357,6 @@ def tick(harvest=True, log=print):
     else:
         log("signal: no live jewellery reward")
 
-    for rid, before, after, head in changes:
-        notify("AmazonGold watcher · %s → %s\n%s\n%s" % (before or "new", after, head, REWARD_URL.format(id=rid)))
     return changed, signal, changes
 
 

@@ -12,8 +12,7 @@
 #
 # Secrets: AG_DISPATCH_TOKEN (token with contents:write on the board repo) -
 # optional; without it the board still picks the signal up on its next build.
-# TG_BOT_TOKEN + TG_CHAT_ID for a one-line Telegram alert on a status flip -
-# optional. AG_PROXY_URL + AG_PROXY_KEY if Amazon ever refuses the runner
+# AG_PROXY_URL + AG_PROXY_KEY if Amazon ever refuses the runner
 # (it answered plain curl on 2026-09-20).
 
 name: Watch the coupon
@@ -44,8 +43,6 @@ jobs:
         env:
           AG_DISPATCH_REPO: NishanthBejgam/amazongold
           AG_DISPATCH_TOKEN: ${{ secrets.AG_DISPATCH_TOKEN }}
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           AG_PROXY_URL: ${{ secrets.AG_PROXY_URL }}
           AG_PROXY_KEY: ${{ secrets.AG_PROXY_KEY }}
         run: python watch_coupon.py --commit
