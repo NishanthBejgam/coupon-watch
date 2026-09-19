@@ -1,0 +1,51 @@
+# coupon-watch - the two-hourly check.
+#
+# Harvests new Amazon Pay reward IDs from DesiDime / Telegram previews,
+# confirms each against Amazon's own reward page, and commits
+# signal/coupon.json when the answer changes. AmazonGold (private) reads that
+# file over the raw URL at build time; on a change this also sends it a
+# repository_dispatch so the board rebuilds within minutes rather than at its
+# next six-hourly cron.
+#
+# This repo is public on purpose: Actions minutes are free here, so the check
+# costs nothing against the private repos' shared 2,000 minutes a month.
+#
+# Secrets: AG_DISPATCH_TOKEN (token with contents:write on the board repo) -
+# optional; without it the board still picks the signal up on its next build.
+# TG_BOT_TOKEN + TG_CHAT_ID for a one-line Telegram alert on a status flip -
+# optional. AG_PROXY_URL + AG_PROXY_KEY if Amazon ever refuses the runner
+# (it answered plain curl on 2026-09-20).
+
+name: Watch the coupon
+
+on:
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Harvest, confirm with Amazon, write the signal
+        env:
+          AG_DISPATCH_REPO: NishanthBejgam/amazongold
+          AG_DISPATCH_TOKEN: ${{ secrets.AG_DISPATCH_TOKEN }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          AG_PROXY_URL: ${{ secrets.AG_PROXY_URL }}
+          AG_PROXY_KEY: ${{ secrets.AG_PROXY_KEY }}
+        run: python watch_coupon.py --commit

@@ -1,0 +1,76 @@
+{
+  "cursors": {
+    "desidime": 2165572,
+    "tg:Amazonlootdeals7": 29,
+    "tg:bigtricks": 0,
+    "tg:dealsmagnet": 265672,
+    "tg:desidime": 202525
+  },
+  "ids": {
+    "6TYRY3PUH4R3O": {
+      "checkedAt": 1789850453.095034,
+      "checkedAtIso": "2026-09-19T20:41:41+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1794441599.0,
+        "flat": 1500.0,
+        "headline": "GET FLAT ₹1500 BACK Min order: ₹15000 Valid till 11 Nov",
+        "max": null,
+        "min": 15000.0,
+        "percent": null,
+        "rewardId": "6TYRY3PUH4R3O",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.6TYRY3PUH4R3O?rdpf=en"
+      },
+      "firstSeen": "2026-09-20T01:49:11+0530",
+      "headline": "GET FLAT ₹1500 BACK Min order: ₹15000 Valid till 11 Nov",
+      "jewellery": true,
+      "source": "seed",
+      "status": "EXPIRED"
+    },
+    "BQILCLYQHAPOS": {
+      "checkedAt": 1789850453.095034,
+      "checkedAtIso": "2026-09-19T20:41:49+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1804636799.0,
+        "flat": null,
+        "headline": "GET UP TO ₹300 BACK 15% offer, Min order: ₹1000 Valid till 09 Mar",
+        "max": 300.0,
+        "min": 1000.0,
+        "percent": 15.0,
+        "rewardId": "BQILCLYQHAPOS",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.BQILCLYQHAPOS?rdpf=en"
+      },
+      "firstSeen": "2026-09-20T01:49:11+0530",
+      "headline": "GET UP TO ₹300 BACK 15% offer, Min order: ₹1000 Valid till 09 Mar",
+      "jewellery": true,
+      "source": "seed",
+      "status": "EXPIRED"
+    },
+    "YQZQRRYLJITTO": {
+      "checkedAt": 1789850453.095034,
+      "checkedAtIso": "2026-09-19T20:41:58+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-20T01:49:11+0530",
+      "headline": "Amazon.in: : All Categories Skip to Main content Keyboard shortcuts Search alt + / Cart shift + alt + C Home shift + alt",
+      "jewellery": false,
+      "source": "seed",
+      "status": "UNKNOWN"
+    },
+    "jewellery": {
+      "checkedAt": 1789850453.095034,
+      "checkedAtIso": "2026-09-19T20:41:32+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-20T01:49:11+0530",
+      "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
+      "jewellery": true,
+      "source": "seed",
+      "status": "EXPIRED"
+    }
+  },
+  "updatedAt": "2026-09-19T20:41:58+0000"
+}
