@@ -316,21 +316,25 @@ def tick(harvest=True, log=print):
 
 
 def dispatch_build(log=print):
-    """Tell the board to rebuild now rather than at its next 6-hourly cron."""
-    repo, tok = os.environ.get("AG_DISPATCH_REPO"), os.environ.get("AG_DISPATCH_TOKEN")
-    if not (repo and tok):
-        log("no dispatch binding - the board picks the signal up on its next build")
+    """Tell the boards to rebuild now rather than at their next cron.
+    AG_DISPATCH_REPO may list several repos, comma-separated (AmazonGold for
+    the coupon tile, Karat Board for the Telegram coupon alert)."""
+    repos, tok = os.environ.get("AG_DISPATCH_REPO", ""), os.environ.get("AG_DISPATCH_TOKEN")
+    repos = [r.strip() for r in repos.split(",") if r.strip()]
+    if not (repos and tok):
+        log("no dispatch binding - the boards pick the signal up on their next build")
         return
-    req = urllib.request.Request(
-        "https://api.github.com/repos/%s/dispatches" % repo,
-        data=json.dumps({"event_type": "sweep"}).encode(), method="POST",
-        headers={"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json",
-                 "User-Agent": "coupon-watch", "Content-Type": "application/json"})
-    try:
-        urllib.request.urlopen(req, timeout=20)
-        log("dispatched a build of %s" % repo)
-    except Exception as e:  # noqa: BLE001
-        log("dispatch failed: %s" % e)
+    for repo in repos:
+        req = urllib.request.Request(
+            "https://api.github.com/repos/%s/dispatches" % repo,
+            data=json.dumps({"event_type": "sweep"}).encode(), method="POST",
+            headers={"Authorization": "Bearer " + tok, "Accept": "application/vnd.github+json",
+                     "User-Agent": "coupon-watch", "Content-Type": "application/json"})
+        try:
+            urllib.request.urlopen(req, timeout=20)
+            log("dispatched a build of %s" % repo)
+        except Exception as e:  # noqa: BLE001
+            log("dispatch to %s failed: %s" % (repo, e))
 
 
 def commit_if_changed(log=print):

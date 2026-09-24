@@ -46,7 +46,7 @@ jobs:
 
       - name: Harvest, confirm with Amazon, write the signal
         env:
-          AG_DISPATCH_REPO: NishanthBejgam/amazongold
+          AG_DISPATCH_REPO: NishanthBejgam/amazongold,NishanthBejgam/karat-board   # KB sends the Telegram coupon alert
           AG_DISPATCH_TOKEN: ${{ secrets.AG_DISPATCH_TOKEN }}
           AG_PROXY_URL: ${{ secrets.AG_PROXY_URL }}
           AG_PROXY_KEY: ${{ secrets.AG_PROXY_KEY }}
