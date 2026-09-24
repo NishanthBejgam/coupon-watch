@@ -7,6 +7,28 @@
     "tg:desidime": 202628
   },
   "ids": {
+    "1mg": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:19+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "Top Brand Offers Surprise Reward Inside LOCKED Valid till 01 Jan Sign in to Unlock View your cashback earnings and colle",
+      "jewellery": false,
+      "source": "rs:probe:2026-09-21",
+      "status": "LOCKED"
+    },
+    "4MZ3SCVVSJ7DQ": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2159174"
+    },
+    "4XEYLGXP7GBGG": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2160825"
+    },
+    "576S24O5CTYVS": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2160825"
+    },
     "6TYRY3PUH4R3O": {
       "checkedAt": 1790188060.2270024,
       "checkedAtIso": "2026-09-23T18:29:07+0000",
@@ -29,6 +51,14 @@
       "source": "seed",
       "status": "EXPIRED"
     },
+    "AJVUPP2CKZPAC": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:tg:TrickXpert:39645"
+    },
+    "BNLBIESD2E6BU": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:tg:TrickXpert:39637"
+    },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
       "checkedAtIso": "2026-09-23T18:29:16+0000",
@@ -49,6 +79,58 @@
       "headline": "GET UP TO ₹300 BACK 15% offer, Min order: ₹1000 Valid till 09 Mar",
       "jewellery": true,
       "source": "seed",
+      "status": "EXPIRED"
+    },
+    "BTCVZ7RI35WSY": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2165141"
+    },
+    "JCANUPUYHZWLY": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2166313"
+    },
+    "JL4CQOLXICU2A": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:02+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1790812799.0,
+        "flat": null,
+        "headline": "GET UP TO ₹500 BACK 5% offer, Min order: ₹100 Valid till 30 Sep",
+        "max": 500.0,
+        "min": 100.0,
+        "percent": 5.0,
+        "rewardId": "JL4CQOLXICU2A",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.JL4CQOLXICU2A?rdpf=en"
+      },
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "GET UP TO ₹500 BACK 5% offer, Min order: ₹100 Valid till 30 Sep",
+      "jewellery": false,
+      "source": "rs:user:2026-09-21",
+      "status": "CAN_BE_COLLECTED"
+    },
+    "JW4BHSH7KJVK4": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:10+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1818979199.0,
+        "flat": 200.0,
+        "headline": "GET FLAT ₹200 BACK Min order: ₹5000 Valid till 22 Aug",
+        "max": null,
+        "min": 5000.0,
+        "percent": null,
+        "rewardId": "JW4BHSH7KJVK4",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.JW4BHSH7KJVK4?rdpf=en"
+      },
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "GET FLAT ₹200 BACK Min order: ₹5000 Valid till 22 Aug",
+      "jewellery": false,
+      "source": "rs:probe:2026-09-21",
       "status": "EXPIRED"
     },
     "PCYE7FTOT7HAG": {
@@ -73,21 +155,63 @@
       "source": "tg:desidime:202620",
       "status": "CAN_BE_COLLECTED"
     },
+    "PZWH4MKARR76W": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2159865"
+    },
+    "QXGPCCVGV44J2": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2165139"
+    },
+    "YF6CIMG43WN6K": {
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "source": "rs:desidime:2156495"
+    },
     "YQZQRRYLJITTO": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "source": "seed"
     },
+    "dominos": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:47+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "Top Brand Offers Surprise Reward Inside LOCKED Valid till 01 Jan Sign in to Unlock View your cashback earnings and colle",
+      "jewellery": false,
+      "source": "rs:probe:2026-09-21",
+      "status": "LOCKED"
+    },
     "jewellery": {
-      "checkedAt": 1790188060.2270024,
-      "checkedAtIso": "2026-09-23T18:28:42+0000",
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:18:44+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED"
+    },
+    "ola": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:37+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "Top Brand Offers Surprise Reward Inside LOCKED Valid till 01 Jan Sign in to Unlock View your cashback earnings and colle",
+      "jewellery": false,
+      "source": "rs:probe:2026-09-21",
+      "status": "LOCKED"
+    },
+    "uber": {
+      "checkedAt": 1790281123.2523406,
+      "checkedAtIso": "2026-09-24T20:19:28+0000",
+      "coupon": null,
+      "firstSeen": "2026-09-24T20:18:43+0000",
+      "headline": "Top Brand Offers Surprise Reward Inside LOCKED Valid till 01 Jan Sign in to Unlock View your cashback earnings and colle",
+      "jewellery": false,
+      "source": "rs:probe:2026-09-21",
+      "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-23T18:29:16+0000"
+  "updatedAt": "2026-09-24T20:19:47+0000"
 }
