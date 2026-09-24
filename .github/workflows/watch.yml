@@ -1,7 +1,9 @@
-# coupon-watch - the two-hourly check.
+# coupon-watch - the half-hourly check.
 #
-# Harvests new Amazon Pay reward IDs from DesiDime / Telegram previews,
-# confirms each against Amazon's own reward page, and commits
+# Takes new Amazon Pay reward IDs from Reward Switch's 15-minute watcher
+# (which harvests DesiDime / Telegram and pokes this workflow with a
+# repository_dispatch "rewards" when it finds one), confirms each against
+# Amazon's own reward page, and commits
 # signal/coupon.json when the answer changes. AmazonGold (private) reads that
 # file over the raw URL at build time; on a change this also sends it a
 # repository_dispatch so the board rebuilds within minutes rather than at its
@@ -19,7 +21,10 @@ name: Watch the coupon
 
 on:
   schedule:
-    - cron: "23 */2 * * *"
+    # off the hour; GitHub drops :00 slots first and runs late anyway
+    - cron: "23,53 * * * *"
+  repository_dispatch:
+    types: [rewards]
   workflow_dispatch:
 
 concurrency:
