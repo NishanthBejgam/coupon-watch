@@ -196,6 +196,10 @@
       "source": "rs:probe:2026-09-21",
       "status": "EXPIRED"
     },
+    "LYGMJY4BVGRIM": {
+      "firstSeen": "2026-09-25T05:01:15+0000",
+      "source": "rs:desidime:2160688"
+    },
     "PCYE7FTOT7HAG": {
       "checkedAt": 1790188060.2270024,
       "checkedAtIso": "2026-09-23T18:28:59+0000",
@@ -262,13 +266,53 @@
       "source": "rs:desidime:2165139",
       "status": "CAN_BE_COLLECTED"
     },
+    "TGRC4W3R5AB2W": {
+      "firstSeen": "2026-09-25T05:01:15+0000",
+      "source": "rs:desidime:2160688"
+    },
     "TTE63NHST2UJU": {
+      "checkedAt": 1790312475.8347251,
+      "checkedAtIso": "2026-09-25T05:02:06+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1790812799.0,
+        "flat": 50.0,
+        "headline": "GET FLAT ₹50 BACK Min order: ₹1500 Valid till 30 Sep",
+        "max": null,
+        "min": 1500.0,
+        "percent": null,
+        "rewardId": "TTE63NHST2UJU",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.TTE63NHST2UJU?rdpf=en"
+      },
       "firstSeen": "2026-09-25T04:01:15+0000",
-      "source": "rs:desidime:2168274"
+      "headline": "GET FLAT ₹50 BACK Min order: ₹1500 Valid till 30 Sep",
+      "jewellery": false,
+      "source": "rs:desidime:2168274",
+      "status": "CAN_BE_COLLECTED"
     },
     "YF6CIMG43WN6K": {
+      "checkedAt": 1790312475.8347251,
+      "checkedAtIso": "2026-09-25T05:02:15+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793145599.0,
+        "flat": null,
+        "headline": "GET UP TO ₹100 BACK 20% offer, Min order: ₹500 Valid till 27 Oct",
+        "max": 100.0,
+        "min": 500.0,
+        "percent": 20.0,
+        "rewardId": "YF6CIMG43WN6K",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.YF6CIMG43WN6K?rdpf=en"
+      },
       "firstSeen": "2026-09-24T20:18:43+0000",
-      "source": "rs:desidime:2156495"
+      "headline": "GET UP TO ₹100 BACK 20% offer, Min order: ₹500 Valid till 27 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2156495",
+      "status": "CAN_BE_COLLECTED"
     },
     "YQZQRRYLJITTO": {
       "error": "no rewardStatus in page",
@@ -286,8 +330,8 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790310658.6171439,
-      "checkedAtIso": "2026-09-25T04:30:59+0000",
+      "checkedAt": 1790312475.8347251,
+      "checkedAtIso": "2026-09-25T05:01:16+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
@@ -316,5 +360,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-25T04:31:58+0000"
+  "updatedAt": "2026-09-25T05:02:15+0000"
 }
