@@ -1,15 +1,4 @@
 {
-  "appliesTo": "jewellery",
-  "asins": null,
-  "code": "Amazon Pay reward",
-  "confirmedAt": "2026-09-25T04:31:58+0000",
-  "endsAt": 1790812799.0,
-  "flat": 50.0,
-  "headline": "GET FLAT ₹50 BACK Min order: ₹200 Valid till 30 Sep",
-  "max": null,
-  "min": 200.0,
-  "percent": null,
-  "rewardId": "PZWH4MKARR76W",
-  "status": "live",
-  "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.PZWH4MKARR76W?rdpf=en"
+  "confirmedAt": "2026-09-25T14:17:11+0000",
+  "status": "none"
 }
