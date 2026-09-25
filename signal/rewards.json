@@ -147,6 +147,10 @@
       "source": "rs:desidime:2165141",
       "status": "CAN_BE_COLLECTED"
     },
+    "I4QRMWLJRO6TO": {
+      "firstSeen": "2026-09-25T06:32:06+0000",
+      "source": "rs:desidime:2168400"
+    },
     "JCANUPUYHZWLY": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
@@ -197,8 +201,30 @@
       "status": "EXPIRED"
     },
     "LYGMJY4BVGRIM": {
+      "checkedAt": 1790317926.1359093,
+      "checkedAtIso": "2026-09-25T06:32:57+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1790812799.0,
+        "flat": 100.0,
+        "headline": "GET FLAT ₹100 BACK Min order: ₹4000 Valid till 30 Sep",
+        "max": null,
+        "min": 4000.0,
+        "percent": null,
+        "rewardId": "LYGMJY4BVGRIM",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.LYGMJY4BVGRIM?rdpf=en"
+      },
       "firstSeen": "2026-09-25T05:01:15+0000",
-      "source": "rs:desidime:2160688"
+      "headline": "GET FLAT ₹100 BACK Min order: ₹4000 Valid till 30 Sep",
+      "jewellery": false,
+      "source": "rs:desidime:2160688",
+      "status": "CAN_BE_COLLECTED"
+    },
+    "NFMHZX74RTSRA": {
+      "firstSeen": "2026-09-25T06:32:06+0000",
+      "source": "rs:desidime:2168400"
     },
     "PCYE7FTOT7HAG": {
       "checkedAt": 1790188060.2270024,
@@ -267,8 +293,26 @@
       "status": "CAN_BE_COLLECTED"
     },
     "TGRC4W3R5AB2W": {
+      "checkedAt": 1790317926.1359093,
+      "checkedAtIso": "2026-09-25T06:33:06+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1790812799.0,
+        "flat": 750.0,
+        "headline": "GET UP TO ₹750 BACK 1.5% offer, Min order: ₹10000 Valid till 30 Sep",
+        "max": null,
+        "min": 0,
+        "percent": null,
+        "rewardId": "TGRC4W3R5AB2W",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.TGRC4W3R5AB2W?rdpf=en"
+      },
       "firstSeen": "2026-09-25T05:01:15+0000",
-      "source": "rs:desidime:2160688"
+      "headline": "GET UP TO ₹750 BACK 1.5% offer, Min order: ₹10000 Valid till 30 Sep",
+      "jewellery": false,
+      "source": "rs:desidime:2160688",
+      "status": "CAN_BE_COLLECTED"
     },
     "TTE63NHST2UJU": {
       "checkedAt": 1790312475.8347251,
@@ -291,6 +335,10 @@
       "jewellery": false,
       "source": "rs:desidime:2168274",
       "status": "CAN_BE_COLLECTED"
+    },
+    "Y2N6ZZCC55UPE": {
+      "firstSeen": "2026-09-25T06:32:06+0000",
+      "source": "rs:desidime:2168400"
     },
     "YF6CIMG43WN6K": {
       "checkedAt": 1790312475.8347251,
@@ -330,8 +378,8 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790312475.8347251,
-      "checkedAtIso": "2026-09-25T05:01:16+0000",
+      "checkedAt": 1790317926.1359093,
+      "checkedAtIso": "2026-09-25T06:32:06+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
@@ -360,5 +408,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-25T05:02:15+0000"
+  "updatedAt": "2026-09-25T06:33:06+0000"
 }
