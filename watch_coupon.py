@@ -267,6 +267,12 @@ def tick(harvest=True, log=print):
     due = [r for r, e in ids.items() if _due(e, now)]
     fresh = [r for r in due if not ids[r].get("checkedAt")]
     order = ["jewellery"] if "jewellery" in due else []
+    # Whatever the signal stands on is re-confirmed every tick; an id that
+    # keeps coming back unreadable has no checkedAt and would otherwise
+    # hog the "fresh" slots ahead of it forever.
+    order += [r for r in due if r not in order and ids[r].get("jewellery")
+              and ids[r].get("status") == "CAN_BE_COLLECTED"]
+    fresh.sort(key=lambda r: ids[r].get("triedAt", 0))
     order += [r for r in fresh if r not in order]
     order += [r for r in due if r not in order]
     changes = []
@@ -274,6 +280,7 @@ def tick(harvest=True, log=print):
         if n:
             time.sleep(AMAZON_PACE)
         e = ids[rid]
+        e["triedAt"] = now
         try:
             r = read_reward(rid, proxy=proxy)
         except Exception as ex:  # noqa: BLE001
