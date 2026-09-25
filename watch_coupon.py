@@ -70,7 +70,11 @@ RE_HEAD = re.compile(
     r"(?:\s+(\d+)%\s+offer,)?\s*(?:Min(?:imum)?\s+order:?\s+₹\s?([\d,]+))?"
     r"(?:.*?Valid\s+till\s+(\d{1,2})\s+([A-Za-z]{3}))?", re.I | re.S)
 RE_TAG = re.compile(r"<(script|style)[^>]*>.*?</\1>|<[^>]+>", re.S)
-JEWEL = re.compile(r"jewel|gold|silver|coin|bar\b|vedhani|pendant", re.I)
+JEWEL = re.compile(r"jewel|gold|silver|\bcoins?\b|\bbars?\b|vedhani|pendant", re.I)
+# "…applicable on all orders except … h) Jewelry products listed on …" - a
+# clause that names jewellery to exclude it must not make the reward jewellery.
+EXCLUDES = re.compile(r"exclud|except|not applicable|n't applicable|not valid", re.I)
+CLAUSE = re.compile(r"(?<=[.!?])\s+|\s(?=\d{1,2}\.\s)")
 TOPIC = re.compile(r"amazon|jewel|gold|coin|cashback|reward|collect|silver", re.I)
 
 MONTHS = {m: i for i, m in enumerate(
@@ -140,9 +144,15 @@ def read_reward(rid, proxy=None):
     return {
         "status": status,
         "headline": headline,
-        "jewellery": bool(JEWEL.search(body)),
+        "jewellery": is_jewellery(body),
         "coupon": _coupon_from(rid, head, headline) if head else None,
     }
+
+
+def is_jewellery(body):
+    """True when a clause *offers* the reward on jewellery; clauses that
+    exclude it (the generic "all orders except … Jewelry" rewards) don't count."""
+    return any(JEWEL.search(c) and not EXCLUDES.search(c) for c in CLAUSE.split(body))
 
 
 def _coupon_from(rid, m, headline):
