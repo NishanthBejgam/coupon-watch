@@ -21,13 +21,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "4MZ3SCVVSJ7DQ": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "4XEYLGXP7GBGG": {
       "checkedAt": 1790308875.5100195,
@@ -99,13 +99,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39645",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "BNLBIESD2E6BU": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -201,7 +201,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "JL4CQOLXICU2A": {
       "checkedAt": 1790281123.2523406,
@@ -291,6 +291,29 @@
       "source": "rs:desidime:2168400",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790369044.320271
+    },
+    "NK6CJILBQNR2W": {
+      "checkedAt": 1790396161.556409,
+      "checkedAtIso": "2026-09-26T04:16:11+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1791590399.0,
+        "flat": 50.0,
+        "headline": "GET FLAT ₹50 BACK On each of next 3 deliveries Valid till 09 Oct",
+        "max": null,
+        "min": 0,
+        "percent": null,
+        "rewardId": "NK6CJILBQNR2W",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.NK6CJILBQNR2W?rdpf=en"
+      },
+      "firstSeen": "2026-09-26T04:16:01+0000",
+      "headline": "GET FLAT ₹50 BACK On each of next 3 deliveries Valid till 09 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2168842",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790396161.556409
     },
     "PCYE7FTOT7HAG": {
       "checkedAt": 1790188060.2270024,
@@ -486,7 +509,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "source": "seed",
-      "triedAt": 1790369044.320271
+      "triedAt": 1790396161.556409
     },
     "dominos": {
       "checkedAt": 1790281123.2523406,
@@ -499,15 +522,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790385360.350426,
-      "checkedAtIso": "2026-09-26T01:16:01+0000",
+      "checkedAt": 1790396161.556409,
+      "checkedAtIso": "2026-09-26T04:16:02+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790385360.350426
+      "triedAt": 1790396161.556409
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -530,5 +553,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-26T01:17:00+0000"
+  "updatedAt": "2026-09-26T04:17:02+0000"
 }
