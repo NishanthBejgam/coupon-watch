@@ -21,13 +21,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "4MZ3SCVVSJ7DQ": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "4XEYLGXP7GBGG": {
       "checkedAt": 1790308875.5100195,
@@ -99,13 +99,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39645",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "BNLBIESD2E6BU": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -201,7 +201,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "JL4CQOLXICU2A": {
       "checkedAt": 1790281123.2523406,
@@ -246,6 +246,29 @@
       "jewellery": false,
       "source": "rs:probe:2026-09-21",
       "status": "EXPIRED"
+    },
+    "KMR66NN6FWY6I": {
+      "checkedAt": 1790737346.8096514,
+      "checkedAtIso": "2026-09-30T03:02:36+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": null,
+        "headline": "GET UP TO ₹100 BACK 10% offer, Min order: ₹10 Valid till 31 Oct",
+        "max": 100.0,
+        "min": 10.0,
+        "percent": 10.0,
+        "rewardId": "KMR66NN6FWY6I",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.KMR66NN6FWY6I?rdpf=en"
+      },
+      "firstSeen": "2026-09-30T03:02:27+0000",
+      "headline": "GET UP TO ₹100 BACK 10% offer, Min order: ₹10 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2170511",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790737346.8096514
     },
     "LYGMJY4BVGRIM": {
       "checkedAt": 1790317926.1359093,
@@ -543,7 +566,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "source": "seed",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "dominos": {
       "checkedAt": 1790281123.2523406,
@@ -556,15 +579,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790701347.9010026,
-      "checkedAtIso": "2026-09-29T17:02:29+0000",
+      "checkedAt": 1790737346.8096514,
+      "checkedAtIso": "2026-09-30T03:02:27+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790701347.9010026
+      "triedAt": 1790737346.8096514
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -587,5 +610,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-29T17:03:30+0000"
+  "updatedAt": "2026-09-30T03:03:28+0000"
 }
