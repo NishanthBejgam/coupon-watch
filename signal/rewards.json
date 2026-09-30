@@ -21,13 +21,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1790771460.734247
+      "triedAt": 1790793985.6279843
     },
     "4MZ3SCVVSJ7DQ": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1790771460.734247
+      "triedAt": 1790793985.6279843
     },
     "4XEYLGXP7GBGG": {
       "checkedAt": 1790308875.5100195,
@@ -122,7 +122,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39645",
-      "triedAt": 1790771460.734247
+      "triedAt": 1790793985.6279843
     },
     "BNLBIESD2E6BU": {
       "error": "no rewardStatus in page",
@@ -173,6 +173,52 @@
       "jewellery": false,
       "source": "rs:desidime:2165141",
       "status": "CAN_BE_COLLECTED"
+    },
+    "DVZ4MANPQEWP6": {
+      "checkedAt": 1790793985.6279843,
+      "checkedAtIso": "2026-09-30T18:46:43+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 10.0,
+        "headline": "GET FLAT ₹10 BACK Min order: ₹50 Valid till 31 Oct",
+        "max": null,
+        "min": 50.0,
+        "percent": null,
+        "rewardId": "DVZ4MANPQEWP6",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.DVZ4MANPQEWP6?rdpf=en"
+      },
+      "firstSeen": "2026-09-30T18:46:25+0000",
+      "headline": "GET FLAT ₹10 BACK Min order: ₹50 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2171035",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790793985.6279843
+    },
+    "E6MTF5YSZMHKI": {
+      "checkedAt": 1790793985.6279843,
+      "checkedAtIso": "2026-09-30T18:46:59+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 100.0,
+        "headline": "GET FLAT ₹100 BACK Min order: ₹5000 Valid till 31 Oct",
+        "max": null,
+        "min": 5000.0,
+        "percent": null,
+        "rewardId": "E6MTF5YSZMHKI",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.E6MTF5YSZMHKI?rdpf=en"
+      },
+      "firstSeen": "2026-09-30T18:46:25+0000",
+      "headline": "GET FLAT ₹100 BACK Min order: ₹5000 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2171028",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790793985.6279843
     },
     "GCBJGXQMWUREY": {
       "checkedAt": 1790385360.350426,
@@ -462,6 +508,29 @@
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790369044.320271
     },
+    "T2ZWZ6V4N2U2M": {
+      "checkedAt": 1790793985.6279843,
+      "checkedAtIso": "2026-09-30T18:46:34+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 25.0,
+        "headline": "GET FLAT ₹25 BACK Min order: ₹50 Valid till 31 Oct",
+        "max": null,
+        "min": 50.0,
+        "percent": null,
+        "rewardId": "T2ZWZ6V4N2U2M",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.T2ZWZ6V4N2U2M?rdpf=en"
+      },
+      "firstSeen": "2026-09-30T18:46:25+0000",
+      "headline": "GET FLAT ₹25 BACK Min order: ₹50 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2171038",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790793985.6279843
+    },
     "TGRC4W3R5AB2W": {
       "checkedAt": 1790317926.1359093,
       "checkedAtIso": "2026-09-25T06:33:06+0000",
@@ -516,6 +585,29 @@
       "source": "rs:desidime:2170442",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790701347.9010026
+    },
+    "WR6Q4CVBJPRUK": {
+      "checkedAt": 1790793985.6279843,
+      "checkedAtIso": "2026-09-30T18:46:51+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 25.0,
+        "headline": "GET FLAT ₹25 BACK Min order: ₹50 Valid till 31 Oct",
+        "max": null,
+        "min": 50.0,
+        "percent": null,
+        "rewardId": "WR6Q4CVBJPRUK",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.WR6Q4CVBJPRUK?rdpf=en"
+      },
+      "firstSeen": "2026-09-30T18:46:25+0000",
+      "headline": "GET FLAT ₹25 BACK Min order: ₹50 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2171034",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790793985.6279843
     },
     "Y2N6ZZCC55UPE": {
       "checkedAt": 1790369044.320271,
@@ -602,15 +694,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790771460.734247,
-      "checkedAtIso": "2026-09-30T12:31:01+0000",
+      "checkedAt": 1790793985.6279843,
+      "checkedAtIso": "2026-09-30T18:46:26+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790771460.734247
+      "triedAt": 1790793985.6279843
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -633,5 +725,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-30T12:32:01+0000"
+  "updatedAt": "2026-09-30T18:47:24+0000"
 }
