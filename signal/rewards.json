@@ -18,22 +18,28 @@
       "status": "LOCKED"
     },
     "235DEBC5E5LGS": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "3FBJFQCJR72K2": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-30T19:02:25+0000",
       "source": "rs:desidime:2171048",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "4MZ3SCVVSJ7DQ": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
+    },
+    "4WPIM3IWUTQYM": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-09-30T19:16:42+0000",
+      "source": "rs:desidime:2171075",
+      "triedAt": 1790795802.221171
     },
     "4XEYLGXP7GBGG": {
       "checkedAt": 1790308875.5100195,
@@ -125,16 +131,16 @@
       "status": "EXPIRED"
     },
     "AJVUPP2CKZPAC": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39645",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "BNLBIESD2E6BU": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -276,7 +282,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "JL4CQOLXICU2A": {
       "checkedAt": 1790281123.2523406,
@@ -709,7 +715,7 @@
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790794945.595593
+      "triedAt": 1790795802.221171
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -732,5 +738,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-09-30T19:03:25+0000"
+  "updatedAt": "2026-09-30T19:17:40+0000"
 }
