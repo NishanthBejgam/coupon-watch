@@ -174,7 +174,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1790795802.221171
+      "triedAt": 1790837167.164809
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -288,6 +288,12 @@
       "source": "rs:desidime:2171028",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790793985.6279843
+    },
+    "FNWSSWQKGHVSK": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-01T06:46:07+0000",
+      "source": "rs:desidime:2171276",
+      "triedAt": 1790837167.164809
     },
     "FWPK6BAPMAVT6": {
       "checkedAt": 1790813762.43325,
@@ -408,7 +414,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1790795802.221171
+      "triedAt": 1790837167.164809
+    },
+    "JI2QKNWL6T5BC": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-01T06:46:07+0000",
+      "source": "rs:desidime:2171262",
+      "triedAt": 1790837167.164809
     },
     "JL4CQOLXICU2A": {
       "checkedAt": 1790281123.2523406,
@@ -476,6 +488,12 @@
       "source": "rs:desidime:2170511",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790737346.8096514
+    },
+    "LPKRLTGL2NCJ2": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-01T06:46:07+0000",
+      "source": "rs:desidime:2171261",
+      "triedAt": 1790837167.164809
     },
     "LYGMJY4BVGRIM": {
       "checkedAt": 1790317926.1359093,
@@ -549,7 +567,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1790813762.43325
+      "triedAt": 1790837167.164809
     },
     "PCYE7FTOT7HAG": {
       "checkedAt": 1790188060.2270024,
@@ -634,7 +652,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1790813762.43325
+      "triedAt": 1790837167.164809
     },
     "QXGPCCVGV44J2": {
       "checkedAt": 1790310658.6171439,
@@ -881,12 +899,13 @@
       "checkedAt": 1790835366.5940387,
       "checkedAtIso": "2026-10-01T06:16:07+0000",
       "coupon": null,
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790835366.5940387
+      "triedAt": 1790837167.164809
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -909,5 +928,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-01T06:17:09+0000"
+  "updatedAt": "2026-10-01T06:47:06+0000"
 }
