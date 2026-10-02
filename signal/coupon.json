@@ -1,4 +1,15 @@
 {
-  "confirmedAt": "2026-09-25T14:17:11+0000",
-  "status": "none"
+  "appliesTo": "jewellery",
+  "asins": null,
+  "code": "Amazon Pay reward",
+  "confirmedAt": "2026-10-02T05:33:13+0000",
+  "endsAt": 1793491199.0,
+  "flat": 5.0,
+  "headline": "Get flat ₹5 back Min order: ₹19 Valid till 31 Oct",
+  "max": null,
+  "min": 19.0,
+  "percent": null,
+  "rewardId": "WPVY7ACPNAJLC",
+  "status": "live",
+  "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.WPVY7ACPNAJLC?rdpf=en"
 }
