@@ -86,6 +86,9 @@ RS_SEED_URL = os.environ.get(
 AMAZON_PACE = 8           # seconds between Amazon hits - ~10 quick ones get us TLS-dropped
 MAX_AMAZON_PER_TICK = 8   # slug + the freshest IDs; the rest wait for the next tick
 NON_JEWEL_EVERY = 24 * 3600
+# A reward worth less than this (flat, or a percentage's cap) is not worth
+# announcing - Amazon runs ₹5-on-₹19 rewards that only clutter the board.
+MIN_WORTH = float(os.environ.get("AG_MIN_WORTH", 500))
 FORGET_AFTER = 90 * 24 * 3600
 
 
@@ -305,7 +308,8 @@ def tick(harvest=True, log=print):
 
     # 4. the signal: the best live jewellery reward, or nothing
     live = [e["coupon"] for e in ids.values()
-            if e.get("status") == "CAN_BE_COLLECTED" and e.get("jewellery") and e.get("coupon")]
+            if e.get("status") == "CAN_BE_COLLECTED" and e.get("jewellery") and e.get("coupon")
+            and (e["coupon"].get("flat") or e["coupon"].get("max") or 0) >= MIN_WORTH]
     live.sort(key=lambda c: -(c["flat"] or c["max"] or 0))
     signal = dict(live[0], status="live") if live else {"status": "none"}
     # confirmedAt only moves when the signal itself does, so an unchanged
