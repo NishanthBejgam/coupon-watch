@@ -21,7 +21,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1790883503.0899115
+      "triedAt": 1790914560.325452
     },
     "3FBJFQCJR72K2": {
       "checkedAt": 1790835366.5940387,
@@ -50,7 +50,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1790883503.0899115
+      "triedAt": 1790914560.325452
     },
     "4WPIM3IWUTQYM": {
       "checkedAt": 1790835366.5940387,
@@ -197,7 +197,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1790874153.012758
+      "triedAt": 1790914560.325452
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -454,7 +454,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1790874153.012758
+      "triedAt": 1790914560.325452
     },
     "JI2QKNWL6T5BC": {
       "checkedAt": 1790883503.0899115,
@@ -772,7 +772,30 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1790850670.373906
+      "triedAt": 1790914560.325452
+    },
+    "QWOLFVFUT5RFY": {
+      "checkedAt": 1790914560.325452,
+      "checkedAtIso": "2026-10-02T04:16:10+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 50.0,
+        "headline": "GET FLAT ₹50 BACK Min order: ₹100 Valid till 31 Oct",
+        "max": null,
+        "min": 100.0,
+        "percent": null,
+        "rewardId": "QWOLFVFUT5RFY",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.QWOLFVFUT5RFY?rdpf=en"
+      },
+      "firstSeen": "2026-10-02T04:16:00+0000",
+      "headline": "GET FLAT ₹50 BACK Min order: ₹100 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2171631",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1790914560.325452
     },
     "QXGPCCVGV44J2": {
       "checkedAt": 1790310658.6171439,
@@ -1060,7 +1083,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "source": "seed",
-      "triedAt": 1790874153.012758
+      "triedAt": 1790914560.325452
     },
     "dominos": {
       "checkedAt": 1790281123.2523406,
@@ -1073,15 +1096,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1790883503.0899115,
-      "checkedAtIso": "2026-10-01T19:38:23+0000",
+      "checkedAt": 1790914560.325452,
+      "checkedAtIso": "2026-10-02T04:16:01+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1790883503.0899115
+      "triedAt": 1790914560.325452
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -1104,5 +1127,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-01T19:39:23+0000"
+  "updatedAt": "2026-10-02T04:17:01+0000"
 }
