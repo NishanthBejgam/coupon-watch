@@ -1,4 +1,15 @@
 {
-  "confirmedAt": "2026-10-02T09:05:21+0000",
-  "status": "none"
+  "appliesTo": "jewellery",
+  "asins": null,
+  "code": "Amazon Pay reward",
+  "confirmedAt": "2026-10-07T22:02:22+0000",
+  "endsAt": 1792540799.0,
+  "flat": 1000.0,
+  "headline": "GET UP TO ₹1000 BACK 2.5% offer, Min order: ₹5000 Valid till 20 Oct",
+  "max": null,
+  "min": 0,
+  "percent": null,
+  "rewardId": "SUEFWXGWHSFPI",
+  "status": "live",
+  "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.SUEFWXGWHSFPI?rdpf=en"
 }
