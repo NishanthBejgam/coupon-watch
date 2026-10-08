@@ -67,7 +67,7 @@ RE_REWARD = re.compile(r"amzn1\.rewards\.rewardAd\.([A-Z0-9]{13}|[a-z]{3,24})")
 RE_STATUS = re.compile(r"'rewardStatus':\s*'([A-Z_]+)'")
 RE_HEAD = re.compile(
     r"GET\s+(FLAT|UP\s+TO)\s+₹\s?([\d,]+)\s+BACK"
-    r"(?:\s+(\d+)%\s+offer,)?\s*(?:Min(?:imum)?\s+order:?\s+₹\s?([\d,]+))?"
+    r"(?:\s+(\d+(?:\.\d+)?)%\s+offer,?)?\s*(?:Min(?:imum)?\s+order:?\s+₹\s?([\d,]+))?"
     r"(?:.*?Valid\s+till\s+(\d{1,2})\s+([A-Za-z]{3}))?", re.I | re.S)
 RE_TAG = re.compile(r"<(script|style)[^>]*>.*?</\1>|<[^>]+>", re.S)
 JEWEL = re.compile(r"jewel|gold|silver|\bcoins?\b|\bbars?\b|vedhani|pendant", re.I)
