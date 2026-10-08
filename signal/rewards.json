@@ -91,7 +91,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T05:32:23+0000",
       "source": "rs:desidime:2175932",
-      "triedAt": 1791450651.643485
+      "triedAt": 1791475363.4380996
     },
     "4KGJYTWNQMUVM": {
       "checkedAt": 1791031578.3098235,
@@ -267,7 +267,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-05T09:16:45+0000",
       "source": "rs:desidime:2173341",
-      "triedAt": 1791446363.023176
+      "triedAt": 1791475363.4380996
     },
     "7BL22PYI7TUJO": {
       "checkedAt": 1791424954.0903747,
@@ -376,7 +376,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39645",
-      "triedAt": 1791446363.023176
+      "triedAt": 1791475363.4380996
     },
     "AOKK3FT6BGR74": {
       "checkedAt": 1791248548.534033,
@@ -542,6 +542,29 @@
       "source": "rs:desidime:2174492",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1791344766.577418
+    },
+    "CO7FPPWVMXLH4": {
+      "checkedAt": 1791475363.4380996,
+      "checkedAtIso": "2026-10-08T16:03:11+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": null,
+        "flat": 800.0,
+        "headline": "Get Flat ₹800 back",
+        "max": null,
+        "min": 0,
+        "percent": null,
+        "rewardId": "CO7FPPWVMXLH4",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CO7FPPWVMXLH4?rdpf=en"
+      },
+      "firstSeen": "2026-10-08T16:02:43+0000",
+      "headline": "Get Flat ₹800 back",
+      "jewellery": true,
+      "source": "rs:desidime:2176568",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1791475363.4380996
     },
     "DKNSTL6FWAPPC": {
       "checkedAt": 1790813762.43325,
@@ -1465,8 +1488,8 @@
       "triedAt": 1790369044.320271
     },
     "SUEFWXGWHSFPI": {
-      "checkedAt": 1791468978.653236,
-      "checkedAtIso": "2026-10-08T14:16:28+0000",
+      "checkedAt": 1791475363.4380996,
+      "checkedAtIso": "2026-10-08T16:02:53+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1485,7 +1508,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791468978.653236
+      "triedAt": 1791475363.4380996
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -1658,8 +1681,8 @@
       "triedAt": 1790701347.9010026
     },
     "WPVY7ACPNAJLC": {
-      "checkedAt": 1791468978.653236,
-      "checkedAtIso": "2026-10-08T14:16:37+0000",
+      "checkedAt": 1791475363.4380996,
+      "checkedAtIso": "2026-10-08T16:03:02+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1678,7 +1701,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791468978.653236
+      "triedAt": 1791475363.4380996
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -1861,7 +1884,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "source": "seed",
-      "triedAt": 1791446363.023176
+      "triedAt": 1791475363.4380996
     },
     "dominos": {
       "checkedAt": 1790281123.2523406,
@@ -1874,15 +1897,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1791468978.653236,
-      "checkedAtIso": "2026-10-08T14:16:19+0000",
+      "checkedAt": 1791475363.4380996,
+      "checkedAtIso": "2026-10-08T16:02:44+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1791468978.653236
+      "triedAt": 1791475363.4380996
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -1905,5 +1928,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-08T14:17:20+0000"
+  "updatedAt": "2026-10-08T16:03:46+0000"
 }
