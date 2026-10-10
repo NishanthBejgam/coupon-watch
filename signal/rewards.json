@@ -56,7 +56,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T13:02:33+0000",
       "source": "rs:desidime:2176339",
-      "triedAt": 1791464552.9039001
+      "triedAt": 1791601352.3891768
     },
     "3FBJFQCJR72K2": {
       "checkedAt": 1790835366.5940387,
@@ -85,7 +85,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T02:16:07+0000",
       "source": "rs:desidime:2175760",
-      "triedAt": 1791464552.9039001
+      "triedAt": 1791601352.3891768
     },
     "4F5NZ66PWVY7K": {
       "error": "no rewardStatus in page",
@@ -268,6 +268,12 @@
       "firstSeen": "2026-10-05T09:16:45+0000",
       "source": "rs:desidime:2173341",
       "triedAt": 1791475363.4380996
+    },
+    "72FM77Y5QZI4G": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-10T03:02:32+0000",
+      "source": "rs:desidime:2177628",
+      "triedAt": 1791601352.3891768
     },
     "7BL22PYI7TUJO": {
       "checkedAt": 1791424954.0903747,
@@ -577,7 +583,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791601352.3891768
     },
     "DKNSTL6FWAPPC": {
       "checkedAt": 1790813762.43325,
@@ -1524,8 +1530,8 @@
       "triedAt": 1790369044.320271
     },
     "SUEFWXGWHSFPI": {
-      "checkedAt": 1791504155.3683276,
-      "checkedAtIso": "2026-10-09T00:02:54+0000",
+      "checkedAt": 1791601352.3891768,
+      "checkedAtIso": "2026-10-10T03:02:50+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1544,7 +1550,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791601352.3891768
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -1717,8 +1723,8 @@
       "triedAt": 1790701347.9010026
     },
     "WPVY7ACPNAJLC": {
-      "checkedAt": 1791504155.3683276,
-      "checkedAtIso": "2026-10-09T00:03:02+0000",
+      "checkedAt": 1791601352.3891768,
+      "checkedAtIso": "2026-10-10T03:02:58+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1737,7 +1743,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791601352.3891768
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -1823,7 +1829,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1791459966.8046026
+      "triedAt": 1791601352.3891768
     },
     "Y2N6ZZCC55UPE": {
       "checkedAt": 1790369044.320271,
@@ -1933,15 +1939,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1791504155.3683276,
-      "checkedAtIso": "2026-10-09T00:02:36+0000",
+      "checkedAt": 1791601352.3891768,
+      "checkedAtIso": "2026-10-10T03:02:33+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791601352.3891768
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -1964,5 +1970,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-09T00:03:38+0000"
+  "updatedAt": "2026-10-10T03:03:32+0000"
 }
