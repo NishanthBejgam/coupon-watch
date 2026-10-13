@@ -126,7 +126,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791860484.9305592
     },
     "4WPIM3IWUTQYM": {
       "checkedAt": 1790835366.5940387,
@@ -675,7 +675,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791851538.2243109
+      "triedAt": 1791860484.9305592
     },
     "CUINBSM53ACUC": {
       "checkedAt": 1791718334.6930306,
@@ -1055,7 +1055,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1791492377.2239811
+      "triedAt": 1791860484.9305592
     },
     "JHXJLXY3GJTXS": {
       "checkedAt": 1791464552.9039001,
@@ -1284,6 +1284,29 @@
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1791424954.0903747
     },
+    "N6KUAXFJUORTO": {
+      "checkedAt": 1791860484.9305592,
+      "checkedAtIso": "2026-10-13T03:01:59+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793491199.0,
+        "flat": 100.0,
+        "headline": "Get flat ₹100 back Min order: ₹300 Valid till 31 Oct",
+        "max": null,
+        "min": 300.0,
+        "percent": null,
+        "rewardId": "N6KUAXFJUORTO",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.N6KUAXFJUORTO?rdpf=en"
+      },
+      "firstSeen": "2026-10-13T03:01:25+0000",
+      "headline": "Get flat ₹100 back Min order: ₹300 Valid till 31 Oct",
+      "jewellery": false,
+      "source": "rs:desidime:2179858",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1791860484.9305592
+    },
     "NFITM5XLLZEWA": {
       "checkedAt": 1791031578.3098235,
       "checkedAtIso": "2026-10-03T12:46:44+0000",
@@ -1380,7 +1403,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1791504155.3683276
+      "triedAt": 1791860484.9305592
     },
     "O4ZNV7VA5VKC2": {
       "checkedAt": 1791396982.0544431,
@@ -1691,8 +1714,8 @@
       "triedAt": 1790369044.320271
     },
     "SUEFWXGWHSFPI": {
-      "checkedAt": 1791851538.2243109,
-      "checkedAtIso": "2026-10-13T00:32:36+0000",
+      "checkedAt": 1791860484.9305592,
+      "checkedAtIso": "2026-10-13T03:01:42+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1711,7 +1734,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791851538.2243109
+      "triedAt": 1791860484.9305592
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -1907,8 +1930,8 @@
       "triedAt": 1790701347.9010026
     },
     "WPVY7ACPNAJLC": {
-      "checkedAt": 1791851538.2243109,
-      "checkedAtIso": "2026-10-13T00:32:44+0000",
+      "checkedAt": 1791860484.9305592,
+      "checkedAtIso": "2026-10-13T03:01:51+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1927,7 +1950,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1791851538.2243109
+      "triedAt": 1791860484.9305592
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2123,15 +2146,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1791851538.2243109,
-      "checkedAtIso": "2026-10-13T00:32:19+0000",
+      "checkedAt": 1791860484.9305592,
+      "checkedAtIso": "2026-10-13T03:01:25+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1791851538.2243109
+      "triedAt": 1791860484.9305592
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -2154,5 +2177,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-13T00:33:19+0000"
+  "updatedAt": "2026-10-13T03:02:25+0000"
 }
