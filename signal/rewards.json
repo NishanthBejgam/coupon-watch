@@ -172,7 +172,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1792254734.4725053
+      "triedAt": 1792439166.3185785
     },
     "4WPIM3IWUTQYM": {
       "checkedAt": 1790835366.5940387,
@@ -664,7 +664,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T20:46:17+0000",
       "source": "rs:desidime:2176855",
-      "triedAt": 1792218665.8124592
+      "triedAt": 1792439166.3185785
     },
     "BNLBIESD2E6BU": {
       "error": "no rewardStatus in page",
@@ -830,13 +830,13 @@
         "rewardId": "CO7FPPWVMXLH4",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CO7FPPWVMXLH4?rdpf=en"
       },
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-10-08T16:02:43+0000",
       "headline": "Get Flat ₹800 back",
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792439166.3185785
     },
     "CUINBSM53ACUC": {
       "checkedAt": 1791718334.6930306,
@@ -1682,6 +1682,12 @@
       "source": "rs:desidime:2171025",
       "triedAt": 1792349178.3728747
     },
+    "OQY2NHYGW7YHC": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-19T19:46:06+0000",
+      "source": "rs:desidime:2184417",
+      "triedAt": 1792439166.3185785
+    },
     "OSRPJ6QQ3SB52": {
       "checkedAt": 1791984673.0856557,
       "checkedAtIso": "2026-10-14T13:31:48+0000",
@@ -1863,7 +1869,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1792218665.8124592
+      "triedAt": 1792439166.3185785
     },
     "QORNTZUPGTYTG": {
       "checkedAt": 1791450651.643485,
@@ -2029,13 +2035,13 @@
         "rewardId": "SUEFWXGWHSFPI",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.SUEFWXGWHSFPI?rdpf=en"
       },
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-10-07T19:32:19+0000",
       "headline": "GET UP TO ₹1000 BACK 2.5% offer, Min order: ₹5000 Valid till 20 Oct",
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792439166.3185785
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2269,13 +2275,13 @@
         "rewardId": "WPVY7ACPNAJLC",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.WPVY7ACPNAJLC?rdpf=en"
       },
-      "error": "captcha",
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-10-02T05:32:12+0000",
       "headline": "Get flat ₹5 back Min order: ₹19 Valid till 31 Oct",
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792439166.3185785
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2515,7 +2521,7 @@
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792439166.3185785
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -2538,5 +2544,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-19T18:47:25+0000"
+  "updatedAt": "2026-10-19T19:47:04+0000"
 }
