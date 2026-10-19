@@ -21,7 +21,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1792142186.2816324
+      "triedAt": 1792404986.9929829
     },
     "27SS22YR7WECC": {
       "error": "no rewardStatus in page",
@@ -411,7 +411,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-10T03:02:32+0000",
       "source": "rs:desidime:2177628",
-      "triedAt": 1792142186.2816324
+      "triedAt": 1792404986.9929829
     },
     "7BL22PYI7TUJO": {
       "checkedAt": 1791424954.0903747,
@@ -813,7 +813,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792349178.3728747
+      "triedAt": 1792404986.9929829
     },
     "CUINBSM53ACUC": {
       "checkedAt": 1791718334.6930306,
@@ -2000,7 +2000,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792349178.3728747
+      "triedAt": 1792404986.9929829
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2219,8 +2219,8 @@
       "triedAt": 1790701347.9010026
     },
     "WPVY7ACPNAJLC": {
-      "checkedAt": 1792349178.3728747,
-      "checkedAtIso": "2026-10-18T18:46:45+0000",
+      "checkedAt": 1792404986.9929829,
+      "checkedAtIso": "2026-10-19T10:16:53+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -2239,7 +2239,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792349178.3728747
+      "triedAt": 1792404986.9929829
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2451,7 +2451,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-13T09:32:23+0000",
       "source": "rs:desidime:2180153",
-      "triedAt": 1792089991.5210702
+      "triedAt": 1792404986.9929829
+    },
+    "Z4V6EAJGF4VO6": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-19T10:16:27+0000",
+      "source": "rs:desidime:2183982",
+      "triedAt": 1792404986.9929829
     },
     "dominos": {
       "checkedAt": 1790281123.2523406,
@@ -2464,15 +2470,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1792349178.3728747,
-      "checkedAtIso": "2026-10-18T18:46:19+0000",
+      "checkedAt": 1792404986.9929829,
+      "checkedAtIso": "2026-10-19T10:16:27+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1792349178.3728747
+      "triedAt": 1792404986.9929829
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -2495,5 +2501,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-18T18:47:19+0000"
+  "updatedAt": "2026-10-19T10:17:27+0000"
 }
