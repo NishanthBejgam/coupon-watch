@@ -133,6 +133,12 @@
       "source": "rs:desidime:2175760",
       "triedAt": 1792521978.9146864
     },
+    "3J2DHFG7XIMKC": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-22T19:32:23+0000",
+      "source": "rs:desidime:2186141",
+      "triedAt": 1792697542.8304882
+    },
     "4F5NZ66PWVY7K": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T05:32:23+0000",
@@ -859,7 +865,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792696582.8260176
+      "triedAt": 1792697542.8304882
     },
     "CSGMIFN646O4E": {
       "checkedAt": 1792641750.2170155,
@@ -1216,7 +1222,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-16T18:46:14+0000",
       "source": "rs:desidime:2182526",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792697542.8304882
     },
     "HOZFUVYNVZW2Y": {
       "checkedAt": 1790813762.43325,
@@ -1268,7 +1274,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-16T18:46:14+0000",
       "source": "rs:desidime:2182526",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792697542.8304882
     },
     "I4QRMWLJRO6TO": {
       "checkedAt": 1790345771.8329103,
@@ -1975,10 +1981,10 @@
       "triedAt": 1791945068.6813235
     },
     "Q75V2JISBLDGY": {
-      "error": "captcha",
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-10-19T18:46:25+0000",
       "source": "rs:desidime:2184396",
-      "triedAt": 1792435584.9576297
+      "triedAt": 1792697542.8304882
     },
     "QE3XTHQAJI2ME": {
       "error": "no rewardStatus in page",
@@ -2179,7 +2185,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792696582.8260176
+      "triedAt": 1792697542.8304882
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2442,7 +2448,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1792696582.8260176
+      "triedAt": 1792697542.8304882
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2688,7 +2694,7 @@
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1792696582.8260176
+      "triedAt": 1792697542.8304882
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -2711,5 +2717,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-22T19:17:23+0000"
+  "updatedAt": "2026-10-22T19:33:22+0000"
 }
