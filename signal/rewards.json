@@ -79,7 +79,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T13:02:33+0000",
       "source": "rs:desidime:2176339",
-      "triedAt": 1792812735.1083953
+      "triedAt": 1793259135.961786
     },
     "36TA2DLMVP4C2": {
       "checkedAt": 1792142186.2816324,
@@ -155,6 +155,12 @@
       "source": "rs:desidime:2186141",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1793207779.149746
+    },
+    "3SB2IJWIGFWOM": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-29T07:32:16+0000",
+      "source": "rs:desidime:2189756",
+      "triedAt": 1793259135.961786
     },
     "4F5NZ66PWVY7K": {
       "error": "no rewardStatus in page",
@@ -762,7 +768,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1792832553.2954311
+      "triedAt": 1793259135.961786
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -928,7 +934,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793215935.7040653
+      "triedAt": 1793259135.961786
     },
     "CSGMIFN646O4E": {
       "checkedAt": 1792641750.2170155,
@@ -2191,7 +2197,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1792812735.1083953
+      "triedAt": 1793259135.961786
     },
     "QORNTZUPGTYTG": {
       "checkedAt": 1791450651.643485,
@@ -2432,7 +2438,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793215935.7040653
+      "triedAt": 1793259135.961786
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2695,12 +2701,13 @@
         "rewardId": "WPVY7ACPNAJLC",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.WPVY7ACPNAJLC?rdpf=en"
       },
+      "error": "captcha",
       "firstSeen": "2026-10-02T05:32:12+0000",
       "headline": "Get flat ₹5 back Min order: ₹19 Valid till 31 Oct",
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793215935.7040653
+      "triedAt": 1793259135.961786
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2986,12 +2993,13 @@
       "checkedAt": 1793215935.7040653,
       "checkedAtIso": "2026-10-28T19:32:16+0000",
       "coupon": null,
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1793215935.7040653
+      "triedAt": 1793259135.961786
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -3014,5 +3022,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-28T19:33:16+0000"
+  "updatedAt": "2026-10-29T07:33:15+0000"
 }
