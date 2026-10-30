@@ -18,10 +18,10 @@
       "status": "LOCKED"
     },
     "235DEBC5E5LGS": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-09-25T04:01:15+0000",
       "source": "rs:tg:dealsmagnet:266335",
-      "triedAt": 1792911745.4052622
+      "triedAt": 1793354549.677445
     },
     "27SS22YR7WECC": {
       "error": "no rewardStatus in page",
@@ -934,7 +934,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793299590.9355018
+      "triedAt": 1793354549.677445
     },
     "CSGMIFN646O4E": {
       "checkedAt": 1792641750.2170155,
@@ -1333,6 +1333,12 @@
       "status": "EXPIRED",
       "triedAt": 1790813762.43325
     },
+    "H4HZP3OWUCYFO": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-10-30T10:02:29+0000",
+      "source": "rs:tg:dealsmagnet:272394",
+      "triedAt": 1793354549.677445
+    },
     "HC4MAFMBJKXP2": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-16T18:46:14+0000",
@@ -1467,10 +1473,10 @@
       "triedAt": 1791831756.3381116
     },
     "JCANUPUYHZWLY": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2166313",
-      "triedAt": 1792890962.2090788
+      "triedAt": 1793354549.677445
     },
     "JHXJLXY3GJTXS": {
       "checkedAt": 1791464552.9039001,
@@ -1838,10 +1844,10 @@
       "triedAt": 1791978371.6978092
     },
     "MVTABVCUN34QE": {
-      "error": "captcha",
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-10-25T07:02:25+0000",
       "source": "rs:tg:desidime:204991",
-      "triedAt": 1792911745.4052622
+      "triedAt": 1793354549.677445
     },
     "N6KUAXFJUORTO": {
       "checkedAt": 1791860484.9305592,
@@ -2432,13 +2438,13 @@
         "rewardId": "SUEFWXGWHSFPI",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.SUEFWXGWHSFPI?rdpf=en"
       },
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-10-07T19:32:19+0000",
       "headline": "GET UP TO ₹1000 BACK 2.5% offer, Min order: ₹5000 Valid till 20 Oct",
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793299590.9355018
+      "triedAt": 1793354549.677445
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2713,7 +2719,7 @@
       "jewellery": true,
       "source": "rs:desidime:2171814",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793299590.9355018
+      "triedAt": 1793354549.677445
     },
     "WR6Q4CVBJPRUK": {
       "checkedAt": 1790793985.6279843,
@@ -2999,13 +3005,13 @@
       "checkedAt": 1793215935.7040653,
       "checkedAtIso": "2026-10-28T19:32:16+0000",
       "coupon": null,
-      "error": "captcha",
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1793299590.9355018
+      "triedAt": 1793354549.677445
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -3028,5 +3034,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-29T18:47:31+0000"
+  "updatedAt": "2026-10-30T10:03:27+0000"
 }
