@@ -957,7 +957,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793472373.1034203
+      "triedAt": 1793473031.126476
     },
     "CQQSNZ3X7G256": {
       "checkedAt": 1793472373.1034203,
@@ -1193,7 +1193,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T14:16:18+0000",
       "source": "rs:desidime:2176505",
-      "triedAt": 1793202379.4667287
+      "triedAt": 1793473031.126476
     },
     "EVFCCCHXAFKSS": {
       "checkedAt": 1791504155.3683276,
@@ -1562,7 +1562,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-19T12:32:18+0000",
       "source": "rs:desidime:2184265",
-      "triedAt": 1793202379.4667287
+      "triedAt": 1793473031.126476
     },
     "IPY5YY4VXD4VU": {
       "checkedAt": 1791831756.3381116,
@@ -2628,7 +2628,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793472373.1034203
+      "triedAt": 1793473031.126476
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -2818,6 +2818,17 @@
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790874153.012758
     },
+    "VULBOUGJZOCRY": {
+      "checkedAt": 1793473031.126476,
+      "checkedAtIso": "2026-10-31T18:57:37+0000",
+      "coupon": null,
+      "firstSeen": "2026-10-31T18:57:11+0000",
+      "headline": "Win up to ₹50 back Min order :₹75 Valid till 30 Nov Sign-in to collect View your cashback earnings and collected offers ",
+      "jewellery": false,
+      "source": "rs:desidime:2191401",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1793473031.126476
+    },
     "VVKLEYPUCTP2C": {
       "error": "captcha",
       "firstSeen": "2026-10-29T18:46:31+0000",
@@ -2988,13 +2999,13 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1793122342.4311616
+      "triedAt": 1793473031.126476
     },
     "XPEVIBATM7CO6": {
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-22T19:16:23+0000",
       "source": "rs:desidime:2186139",
-      "triedAt": 1793202379.4667287
+      "triedAt": 1793473031.126476
     },
     "Y2N6ZZCC55UPE": {
       "checkedAt": 1790369044.320271,
@@ -3231,15 +3242,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1793472373.1034203,
-      "checkedAtIso": "2026-10-31T18:46:14+0000",
+      "checkedAt": 1793473031.126476,
+      "checkedAtIso": "2026-10-31T18:57:11+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1793472373.1034203
+      "triedAt": 1793473031.126476
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -3262,5 +3273,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-10-31T18:47:14+0000"
+  "updatedAt": "2026-10-31T18:58:10+0000"
 }
