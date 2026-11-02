@@ -235,7 +235,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1793471459.1115701
+      "triedAt": 1793580371.3444428
     },
     "4OX4J2ROFC4BG": {
       "error": "no rewardStatus in page",
@@ -332,6 +332,29 @@
       "source": "rs:desidime:2170880",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1790771460.734247
+    },
+    "5FCAE5BOU5B5E": {
+      "checkedAt": 1793580371.3444428,
+      "checkedAtIso": "2026-11-02T00:46:46+0000",
+      "coupon": {
+        "appliesTo": "jewellery",
+        "asins": null,
+        "code": "Amazon Pay reward",
+        "endsAt": 1793923199.0,
+        "flat": null,
+        "headline": "GET UP TO ₹500 BACK 5% offer, Min order: ₹1500 Valid till 05 Nov",
+        "max": 500.0,
+        "min": 1500.0,
+        "percent": 5.0,
+        "rewardId": "5FCAE5BOU5B5E",
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.5FCAE5BOU5B5E?rdpf=en"
+      },
+      "firstSeen": "2026-11-02T00:46:11+0000",
+      "headline": "GET UP TO ₹500 BACK 5% offer, Min order: ₹1500 Valid till 05 Nov",
+      "jewellery": false,
+      "source": "rs:desidime:2191867",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1793580371.3444428
     },
     "5L2E3IXAPOLN2": {
       "checkedAt": 1792714565.715762,
@@ -997,7 +1020,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793559742.303228
+      "triedAt": 1793580371.3444428
     },
     "CQQSNZ3X7G256": {
       "checkedAt": 1793472373.1034203,
@@ -1948,8 +1971,8 @@
       "triedAt": 1790737346.8096514
     },
     "KQZLWBS5U2WZ4": {
-      "checkedAt": 1793559742.303228,
-      "checkedAtIso": "2026-11-01T19:02:40+0000",
+      "checkedAt": 1793580371.3444428,
+      "checkedAtIso": "2026-11-02T00:46:29+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -1968,7 +1991,7 @@
       "jewellery": true,
       "source": "rs:desidime:2191860",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793559742.303228
+      "triedAt": 1793580371.3444428
     },
     "KRS6EHT3WVYRU": {
       "checkedAt": 1793515564.0317323,
@@ -2869,7 +2892,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1793559742.303228
+      "triedAt": 1793580371.3444428
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -3011,7 +3034,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-25T07:16:14+0000",
       "source": "rs:desidime:2187396",
-      "triedAt": 1793468771.748937
+      "triedAt": 1793580371.3444428
     },
     "UBVVZBN5MTOGA": {
       "checkedAt": 1791718334.6930306,
@@ -3504,7 +3527,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-13T09:32:23+0000",
       "source": "rs:desidime:2180153",
-      "triedAt": 1793468771.748937
+      "triedAt": 1793580371.3444428
     },
     "Z4V6EAJGF4VO6": {
       "error": "no rewardStatus in page",
@@ -3569,15 +3592,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1793559742.303228,
-      "checkedAtIso": "2026-11-01T19:02:23+0000",
+      "checkedAt": 1793580371.3444428,
+      "checkedAtIso": "2026-11-02T00:46:12+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1793559742.303228
+      "triedAt": 1793580371.3444428
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -3600,5 +3623,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-11-01T19:03:24+0000"
+  "updatedAt": "2026-11-02T00:47:11+0000"
 }
