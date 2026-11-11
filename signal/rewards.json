@@ -131,7 +131,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T02:16:07+0000",
       "source": "rs:desidime:2175760",
-      "triedAt": 1793775748.3929973
+      "triedAt": 1794413775.62622
     },
     "3J2DHFG7XIMKC": {
       "checkedAt": 1793207779.149746,
@@ -969,7 +969,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:tg:TrickXpert:39637",
-      "triedAt": 1793775748.3929973
+      "triedAt": 1794413775.62622
     },
     "BQILCLYQHAPOS": {
       "checkedAt": 1790188060.2270024,
@@ -1135,7 +1135,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794112329.7296422
+      "triedAt": 1794413775.62622
     },
     "CQKOAMF6LPQXK": {
       "error": "no rewardStatus in page",
@@ -2184,8 +2184,8 @@
       "triedAt": 1790737346.8096514
     },
     "KQZLWBS5U2WZ4": {
-      "checkedAt": 1794112329.7296422,
-      "checkedAtIso": "2026-11-08T04:32:27+0000",
+      "checkedAt": 1794413775.62622,
+      "checkedAtIso": "2026-11-11T16:16:33+0000",
       "coupon": {
         "appliesTo": "jewellery",
         "asins": null,
@@ -2204,7 +2204,7 @@
       "jewellery": true,
       "source": "rs:desidime:2191860",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794112329.7296422
+      "triedAt": 1794413775.62622
     },
     "KRS6EHT3WVYRU": {
       "checkedAt": 1793515564.0317323,
@@ -2388,6 +2388,17 @@
       "source": "rs:desidime:2175750",
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1791424954.0903747
+    },
+    "MBYDD5XXPLLMU": {
+      "checkedAt": 1794413775.62622,
+      "checkedAtIso": "2026-11-11T16:16:51+0000",
+      "coupon": null,
+      "firstSeen": "2026-11-11T16:16:15+0000",
+      "headline": "Get up to ₹100 15% offer, Min order: ₹199 Valid till 17 Nov Sign-in to collect View your cashback earnings and collected",
+      "jewellery": false,
+      "source": "rs:desidime:2196234",
+      "status": "CAN_BE_COLLECTED",
+      "triedAt": 1794413775.62622
     },
     "MLV7765RMZG3Y": {
       "checkedAt": 1792812735.1083953,
@@ -2812,7 +2823,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-19T18:46:25+0000",
       "source": "rs:desidime:2184396",
-      "triedAt": 1793775748.3929973
+      "triedAt": 1794413775.62622
     },
     "QE3XTHQAJI2ME": {
       "error": "no rewardStatus in page",
@@ -3128,7 +3139,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794112329.7296422
+      "triedAt": 1794413775.62622
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -4012,15 +4023,15 @@
       "status": "LOCKED"
     },
     "jewellery": {
-      "checkedAt": 1794112329.7296422,
-      "checkedAtIso": "2026-11-08T04:32:10+0000",
+      "checkedAt": 1794413775.62622,
+      "checkedAtIso": "2026-11-11T16:16:16+0000",
       "coupon": null,
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1794112329.7296422
+      "triedAt": 1794413775.62622
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -4043,5 +4054,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-11-08T04:33:10+0000"
+  "updatedAt": "2026-11-11T16:17:18+0000"
 }
