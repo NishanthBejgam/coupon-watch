@@ -27,7 +27,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-02T15:46:13+0000",
       "source": "rs:desidime:2172083",
-      "triedAt": 1793831460.1668127
+      "triedAt": 1794506566.9535825
     },
     "2Y6UOD7G7NEWA": {
       "checkedAt": 1791409578.0464976,
@@ -229,7 +229,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-08T05:32:23+0000",
       "source": "rs:desidime:2175932",
-      "triedAt": 1793905348.3421683
+      "triedAt": 1794506566.9535825
     },
     "4GAIEQDIRYRMM": {
       "checkedAt": 1792714565.715762,
@@ -1135,7 +1135,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794476784.44574
+      "triedAt": 1794506566.9535825
     },
     "CQKOAMF6LPQXK": {
       "error": "no rewardStatus in page",
@@ -2222,12 +2222,13 @@
         "rewardId": "KQZLWBS5U2WZ4",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.KQZLWBS5U2WZ4?rdpf=en"
       },
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-11-01T18:46:33+0000",
       "headline": "Get flat ₹100 back Min order: ₹2000 Valid till 01 Dec",
       "jewellery": true,
       "source": "rs:desidime:2191860",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794476784.44574
+      "triedAt": 1794506566.9535825
     },
     "KRS6EHT3WVYRU": {
       "checkedAt": 1793515564.0317323,
@@ -2614,10 +2615,10 @@
       "triedAt": 1793947564.1586328
     },
     "NTZIIUQIQGE24": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-10-08T11:46:07+0000",
       "source": "rs:desidime:2176355",
-      "triedAt": 1793831460.1668127
+      "triedAt": 1794506566.9535825
     },
     "O4ZNV7VA5VKC2": {
       "checkedAt": 1791396982.0544431,
@@ -2738,6 +2739,12 @@
       "jewellery": false,
       "source": "tg:desidime:202620",
       "status": "CAN_BE_COLLECTED"
+    },
+    "PVVMKVGMRUEHK": {
+      "error": "captcha",
+      "firstSeen": "2026-11-12T18:02:47+0000",
+      "source": "rs:desidime:2196684",
+      "triedAt": 1794506566.9535825
     },
     "PZKOBN753MKAW": {
       "checkedAt": 1790813762.43325,
@@ -3185,7 +3192,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794476784.44574
+      "triedAt": 1794506566.9535825
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -4072,12 +4079,13 @@
       "checkedAt": 1794476784.44574,
       "checkedAtIso": "2026-11-12T09:46:25+0000",
       "coupon": null,
+      "error": "no rewardStatus in page",
       "firstSeen": "2026-09-20T01:49:11+0530",
       "headline": "Jewellery Glam up this festive season Valid till 24 Oct Sign-in to collect View your cashback earnings and collected off",
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1794476784.44574
+      "triedAt": 1794506566.9535825
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -4100,5 +4108,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-11-12T09:47:25+0000"
+  "updatedAt": "2026-11-12T18:03:48+0000"
 }
