@@ -281,7 +281,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-09-24T20:18:43+0000",
       "source": "rs:desidime:2159174",
-      "triedAt": 1793927770.3897538
+      "triedAt": 1794855774.0800762
     },
     "4OX4J2ROFC4BG": {
       "error": "no rewardStatus in page",
@@ -615,10 +615,10 @@
       "triedAt": 1793947564.1586328
     },
     "72FM77Y5QZI4G": {
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-10-10T03:02:32+0000",
       "source": "rs:desidime:2177628",
-      "triedAt": 1793905348.3421683
+      "triedAt": 1794855774.0800762
     },
     "7BL22PYI7TUJO": {
       "checkedAt": 1791424954.0903747,
@@ -1135,7 +1135,7 @@
       "jewellery": true,
       "source": "rs:desidime:2176568",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794506566.9535825
+      "triedAt": 1794855774.0800762
     },
     "CQKOAMF6LPQXK": {
       "error": "no rewardStatus in page",
@@ -2222,13 +2222,13 @@
         "rewardId": "KQZLWBS5U2WZ4",
         "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.KQZLWBS5U2WZ4?rdpf=en"
       },
-      "error": "no rewardStatus in page",
+      "error": "captcha",
       "firstSeen": "2026-11-01T18:46:33+0000",
       "headline": "Get flat ₹100 back Min order: ₹2000 Valid till 01 Dec",
       "jewellery": true,
       "source": "rs:desidime:2191860",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794506566.9535825
+      "triedAt": 1794855774.0800762
     },
     "KRS6EHT3WVYRU": {
       "checkedAt": 1793515564.0317323,
@@ -2591,6 +2591,12 @@
       "status": "CAN_BE_COLLECTED",
       "triedAt": 1791468978.653236
     },
+    "NOZL5GKOZD6EW": {
+      "error": "no rewardStatus in page",
+      "firstSeen": "2026-11-16T19:02:54+0000",
+      "source": "rs:desidime:2198658",
+      "triedAt": 1794855774.0800762
+    },
     "NSPS647TAE5AY": {
       "checkedAt": 1793947564.1586328,
       "checkedAtIso": "2026-11-06T06:46:38+0000",
@@ -2647,7 +2653,7 @@
       "error": "no rewardStatus in page",
       "firstSeen": "2026-10-01T00:16:02+0000",
       "source": "rs:desidime:2171025",
-      "triedAt": 1793905348.3421683
+      "triedAt": 1794855774.0800762
     },
     "OQY2NHYGW7YHC": {
       "checkedAt": 1792812735.1083953,
@@ -3192,7 +3198,7 @@
       "jewellery": true,
       "source": "rs:tg:desidime:203331",
       "status": "CAN_BE_COLLECTED",
-      "triedAt": 1794506566.9535825
+      "triedAt": 1794855774.0800762
     },
     "SYISOOGCNYHS6": {
       "checkedAt": 1791226967.6463506,
@@ -4085,7 +4091,7 @@
       "jewellery": true,
       "source": "seed",
       "status": "EXPIRED",
-      "triedAt": 1794506566.9535825
+      "triedAt": 1794855774.0800762
     },
     "ola": {
       "checkedAt": 1790281123.2523406,
@@ -4108,5 +4114,5 @@
       "status": "LOCKED"
     }
   },
-  "updatedAt": "2026-11-12T18:03:48+0000"
+  "updatedAt": "2026-11-16T19:03:54+0000"
 }
